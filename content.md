@@ -8,11 +8,11 @@ Working document for the site text. Edit here, then copy/paste into `index.html`
 
 **Title:** Bitrealm LLC | Matt Beisser | Embedded and systems software
 
-**Description:** Embedded and systems software engineer. C++ since 2008, Rust for the last few years. Contracting through Bitrealm LLC. Remote from Orlando, FL.
+**Description:** Embedded and systems software engineer. C++ since 2008, Rust for the last few years. Based in Orlando, FL.
 
 **OG title:** Bitrealm LLC | Matt Beisser
 
-**OG description:** Embedded and systems software that ships. C++ and Rust, contracting through Bitrealm LLC. Remote from Orlando, FL, Eastern time.
+**OG description:** Embedded and systems software that ships. C++ and Rust, from Orlando, FL.
 
 **OG image:** og.png, 1200×630, mark + wordmark + tagline on black.
 
@@ -27,8 +27,6 @@ Button: Email Matt (mailto:matt@bitrealm.dev)
 
 **Lead:**
 Hi, I’m Matt Beisser. I’m a senior engineer who has been shipping C++ since 2008 and Rust in recent years, primarily on embedded and performance-critical systems.
-
-Today, I do that work as an independent contractor through Bitrealm LLC. I work remotely from Orlando, FL, Eastern Time.
 
 ## Work (four cards)
 
@@ -48,8 +46,8 @@ The right process depends on the problem. I work pragmatically, from early-stage
 
 ### Where the experience comes from
 
-**Bitrealm LLC · 2025–present**  
-Independent contractor working on embedded and systems software.
+**Lockheed Martin · 2026–present**  
+Back at Lockheed Martin as a software engineer.
 
 **Luminar Technologies · 2021–2025**  
 Staff software engineer building lidar software for the Volvo EX90. I owned two core modules, including their design, testing, and ISO 26262 ASIL B verification evidence. I later led a four-person team building a diagnostic data platform in Rust.
@@ -74,9 +72,7 @@ Bitrealm LLC
 Orlando, Florida
 
 ### Get in touch
-Not a fit for web frontends, mobile apps, or greenfield SaaS. I work on systems software: C++, Rust, and Linux code that runs close to hardware.
-
-Inquiries by email, no form required. Describe the work and the timeline, and we'll set up a call.
+I’m not taking on contract work right now, but I’m always happy to talk about C++, Rust, and systems software. Email is the best way to reach me.
 
 Button: matt@bitrealm.dev
 
